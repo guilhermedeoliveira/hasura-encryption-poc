@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guilhermedeoliveira/hasura-poc/issues"
   },
-  "homepage": "https://github.com/guilhermedeoliveira/hasura-poc#readme"
+  "homepage": "https://github.com/guilhermedeoliveira/hasura-poc#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1"
+  }
 }
